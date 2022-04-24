@@ -1,0 +1,16 @@
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series.deps.json
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series.dll
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/ref/Series.dll
+/home/rosangela/devwoman/series/Series/bin/Debug/net5.0/Series.pdb
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.dll
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/ref/Series.dll
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.pdb
+/home/rosangela/devwoman/series/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
